@@ -1,46 +1,14 @@
 {
   "column-nodes": [
-    {
+        {
           "node_name": "9",
           "parent_name": "special.qtr.csv"
-        },
-        {
-          "node_name": "leg_co_cd",
-          "parent_name": "lrrs_ep_fd"
-        },
-        {
-          "node_name": "leg_co_cd",
-          "parent_name": "lrrs_ep_fd"
-        },
-        {
-          "node_name": "mkt_cd",
-          "parent_name": "sur_prem_dtl"
-        },
-        {
-          "node_name": "ep_amt",
-          "parent_name": "sur_prem_dtl"
         }
   ],
   "table-nodes": [
-  {
+        {
           "node_name": "9",
           "parent_name": "special.qtr.csv"
         },
-        {
-          "node_name": "leg_co_cd",
-          "parent_name": "lrrs_ep_fd"
-        },
-        {
-          "node_name": "leg_co_cd",
-          "parent_name": "lrrs_ep_fd"
-        },
-        {
-          "node_name": "mkt_cd",
-          "parent_name": "sur_prem_dtl"
-        },
-        {
-          "node_name": "ep_amt",
-          "parent_name": "sur_prem_dtl"
-        }
   ]
 }
