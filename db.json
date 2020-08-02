@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "column_nodes": [
     {
           "node_name": "9",
           "parent_name": "special.qtr.csv"
@@ -21,7 +21,26 @@
           "parent_name": "sur_prem_dtl"
         }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "table_nodes":[
+  {
+          "node_name": "sur_prem_ctl",
+          "parent_name": "dbo"
+        },
+        {
+          "node_name": "SYSOBJECTS",
+          "parent_name": "dbo"
+        },
+        {
+          "node_name": "lrrs_ep_fd",
+          "parent_name": "dbo"
+        },
+        {
+          "node_name": "mkt_cd",
+          "parent_name": "dbo"
+        },
+        {
+          "node_name": "fd_ctl",
+          "parent_name": "dbo"
+        }
+  ]
 }
