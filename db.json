@@ -1,14 +1,4 @@
 {
-  "column-nodes": [
-        {
-          "node_name": "9",
-          "parent_name": "special.qtr.csv"
-        }
-  ],
-  "table-nodes": [
-        {
-          "node_name": "9",
-          "parent_name": "special.qtr.csv"
-        },
-  ]
+  "column-nodes": [],
+  "table-nodes": [],
 }
