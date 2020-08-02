@@ -20,10 +20,8 @@
           "node_name": "ep_amt",
           "parent_name": "sur_prem_dtl"
         }
-      ]        
-    },
-        {
-      "tableNodes":[
+      ],
+        "tableNodes":[
         {
           "node_name": "sur_prem_ctl",
           "parent_name": "dbo"
@@ -44,8 +42,8 @@
           "node_name": "fd_ctl",
           "parent_name": "dbo"
         }
-      ]        
-    }
+      ]     
+    },
   
   
     
