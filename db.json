@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "column-nodes": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "table-nodes": {
     "name": "typicode"
   }
 }
